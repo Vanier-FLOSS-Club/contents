@@ -1,7 +1,7 @@
 ---
 top: false
 title: Eastern Bloc Hardware Marathon - Winter 2024
-tags: [Events][Marathon][Hardware]
+tags: [Events,Marathon,Hardware]
 categories: [Contents]
 date: 2024-04-22
 description: Check out what our members did during the EB Hardware Marathon during Winter 2024! 

@@ -1,7 +1,7 @@
 ---
 top: false
 title: Vanier FLOSS Day - 2024
-tags: [Events][FLOSS-Day]
+tags: [Events,FLOSS-Day]
 categories: [Contents]
 date: 2024-12-09
 description: Check out how did the FLOSS day roll for 2024! 

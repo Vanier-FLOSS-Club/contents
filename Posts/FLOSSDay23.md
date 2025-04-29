@@ -1,7 +1,7 @@
 ---
 top: false
 title: Vanier FLOSS Day - Fall 2023
-tags: [Events][FLOSS-Day]
+tags: [Events,FLOSS-Day]
 categories: [Contents]
 date: 2024-03-01
 description: Check out how did the FLOSS day roll during Fall 2023! 
