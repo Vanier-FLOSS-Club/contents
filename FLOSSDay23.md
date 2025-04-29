@@ -1,21 +1,19 @@
 ---
 top: false
 title: Vanier FLOSS Day - Fall 2023
-tags: [Events,FLOSS-Day]
-categories: [Contents]
+tags: [FLOSS Day]
+categories: [Events]
 date: 2024-03-01
 description: Check out how did the FLOSS day roll during Fall 2023! 
 articleGPT: 
 references:
-  - title: Old FLOSS repository
-    url: https://github.com/tassia/vanierFLOSS/tree/main/Events
 ---
 
 Vanier FLOSS Day - Fall 2023
 ==============================
 
 The second edition of Vanier FLOSS Day happened on October 14th 2023, on a Saturday, just after the school
-Fall break. All Vanier community was invited, through MIOs and a [printed poster](flossDayPoster.png), as well as the outside
+Fall break. All Vanier community was invited, through MIOs and a [printed poster](./public/FLOSSDayF23/flossDayPoster.png), as well as the outside
 FLOSS community, since the event was posted at [Agenda du Libre](https://agendadulibre.qc.ca/events/2409).
 
 Registration
@@ -47,7 +45,7 @@ Outside from Vanier:
 Swag
 ====
 
-All participants took home a [FLOSS Day 3-D printed keychain](https://github.com/tassia/vanierFLOSS/blob/main/Events/FLOSSDayF23/pictures/PXL_20231013_000557515.png) as well as a [USB stick with a Debian live image](https://github.com/tassia/vanierFLOSS/blob/main/Events/FLOSSDayF23/pictures/IMG_20231012_2226422.jpg) to try out - live images allow running the OS directly from the USB, and can be used to later install it to disk.
+All participants took home a [FLOSS Day 3-D printed keychain](./public/FLOSSDayF23/pictures/PXL_20231013_000557515.png) as well as a [USB stick with a Debian live image](./public/FLOSSDayF23/pictures/IMG_20231012_2226422.jpg) to try out - live images allow running the OS directly from the USB, and can be used to later install it to disk.
 
 Unconference
 ============
@@ -78,7 +76,7 @@ Covered topics:
 Lunch and snacks
 ================
 
-At the beginning of the day, a [snacks station](https://github.com/tassia/vanierFLOSS/blob/main/Events/FLOSSDayF23/pictures/IMG_3046.JPG) was setup with coffee/tea/juice, fruits and pastries.
+At the beginning of the day, a [snacks station](./public/FLOSSDayF23/pictures/IMG_3046.JPG) was setup with coffee/tea/juice, fruits and pastries.
 For lunch, once more we had pizza, since it was the easier way to handle dietary restrictions -
 this time we had a wide variety: vegetarian, gluten-free, halal and kosher. 
 
@@ -102,7 +100,7 @@ Lessons for future events
 Orga Team: Vanier FLOSS Club
 ============================
 
-<img src="https://github.com/tassia/vanierFLOSS/blob/main/Events/FLOSSDayF23/pictures/IMG_3052.JPG" width="50%" height="50%">
+<img src="./public/FLOSSDayF23/pictures/IMG_3052.JPG" width="50%" height="50%">
 
 - Anthony Nadeau
 - Giuliana Bouzon

@@ -1,24 +1,22 @@
 ---
 top: false
 title: Vanier FLOSS Day - 2024
-tags: [Events,FLOSS-Day]
-categories: [Contents]
+tags: [FLOSS Day]
+categories: [Events]
 date: 2024-12-09
 description: Check out how did the FLOSS day roll for 2024! 
 articleGPT: 
 references:
-  - title: Old FLOSS repository
-    url: https://github.com/tassia/vanierFLOSS/tree/main/Events
 ---
 
 Vanier FLOSS Day 2024 
 ======================
 
-<img src="https://github.com/tassia/vanierFLOSS/blob/main/Events/FLOSSDay24/group_photo.jpg" width="100%">
+<img src="./public/FLOSSDay24//group_photo.jpg" width="100%">
 
 The third edition of Vanier FLOSS Day happened on October 16th 2024, on a
 Wednesday, during the school Fall break. All Vanier community was invited,
-through MIOs and a [printed poster](FLOSS_day_24_poster.png). This time we
+through MIOs and a [printed poster](./public/FLOSSDay24/FLOSS_day_24_poster.png). This time we
 did not publicize the event outside the College, since we quickly reached our
 room capacity.
 
@@ -52,16 +50,16 @@ a selection of FLOSS project stickers were printed and made available.
 
 ### 3D Printed Keychain (by Qian Qian)
 
-The keychain is based on a Tinkercad design of [IronGears10](https://www.tinkercad.com/things/iPPfRoUBe1q-3d-pcb-layout) licensed under CC BY-SA 3.0. There are some modification done. Final Tinkercad is shared [here](https://www.tinkercad.com/things/lqzVt5o8N8M-vanier-floss-day-swag-3d), and you can find the final design in form of the Prusa Slicer project (`3mf`) in this repo.
+The keychain is based on a Tinkercad design of [IronGears10](https://www.tinkercad.com/things/iPPfRoUBe1q-3d-pcb-layout) licensed under CC BY-SA 3.0. There are some modification done. Final Tinkercad is shared [here](https://www.tinkercad.com/things/lqzVt5o8N8M-vanier-floss-day-swag-3d), and you can find the final design in form of the Prusa Slicer project (`3mf`) in this repo [here](./public/FLOSSDay24/Vanier%20FLOSS%20Day%20SWAG%203D.3mf).
 
 We had a few prototypes experimenting corner design and color matching; and finally the design preview of the final design.
-| ![3d-swag-prototypes](pictures/IMG_0605_small.jpeg) | ![final-design](pictures/3D%20SWAG%20Design%20Technical%20Preview%20cut.png) |
+| ![3d-swag-prototypes](./public/FLOSSDay24/pictures/IMG_0605_small.jpeg) | ![final-design](./public/FLOSSDay24/pictures/3D%20SWAG%20Design%20Technical%20Preview%20cut.png) |
 | -------------- | --------------- |
 | 3d swag prototypes | final design preview |
 
 Then the final design was produced in batch by Vanier Makerspace and got ready before the FLOSS Day.
 
-| ![mass-production](pictures/IMG_0626.jpeg)| ![3d-keychain](pictures/IMG_0627.jpg) |
+| ![mass-production](./public/FLOSSDay24/pictures/IMG_0626.jpeg)| ![3d-keychain](./public/FLOSSDay24/pictures/IMG_0627.jpg) |
 | -------------- | --------------- |
 | mass production | 3d keychain |
 
@@ -69,7 +67,7 @@ Then the final design was produced in batch by Vanier Makerspace and got ready b
 
 We have also produced some stickers to give away. A couple of original designs for the FLOSS Day, and a few other official logos from FLOSS projects.
 
-<img src="https://github.com/tassia/vanierFLOSS/blob/main/Events/FLOSSDay24/pictures/IMG_20241128_100014.jpg" width="50%">
+<img src="./public/FLOSSDay24/pictures/IMG_20241128_100014.jpg" width="50%">
 
 
 Schedule
@@ -86,29 +84,29 @@ the afternoon.
 | Time | Activity | Speaker |
 | -------------- | --------------- | --------------- |
 | 09:30 | Mingling and coffee time | |
-| 10:00 | [Welcome & Intro to FLOSS](presentations/flossday24_intro.pdf) | Tassia Camoes-Araujo |
-| 10:30 | [How to contribute to FLOSS projects](presentations/floss_get_started.pdf) | Qian Qian |
-| 11:00 | [Introduction to OpenStreetMap](OSM.pdf) and [open-source mapping](presentations/OSM_and_GIS.pdf) | Jenny Zhu and Nicholas Foisy |
+| 10:00 | [Welcome & Intro to FLOSS](./public/FLOSSDay24/presentations/flossday24_intro.pdf) | Tassia Camoes-Araujo |
+| 10:30 | [How to contribute to FLOSS projects](./public/FLOSSDay24/presentations/floss_get_started.pdf) | Qian Qian |
+| 11:00 | [Introduction to OpenStreetMap](./public/FLOSSDay24/presentations/OSM.pdf) and [open-source mapping](./public/FLOSSDay24/presentations/OSM_and_GIS.pdf) | Jenny Zhu and Nicholas Foisy |
 | 12:00 | Parrot Security | Kais Rafie |
 | 12:30 | GNU/Linux demo, by UNIX course students: | |
 |       | - Kali Linux | Ibrahim El Zeftawy |
-|       | - [Raspberry Pi](presentations/Raspberry_Pi.pdf) | Aya Kharchafi |
+|       | - [Raspberry Pi](./public/FLOSSDay24/presentations/Raspberry_Pi.pdf) | Aya Kharchafi |
 |       | - OpenSUSE | Lydia Ayala Hernandez |
 |       | - Tails | Yakin Succès |
-|       | - Arch Linux | Alexander Nguyen |
+|       | - [Arch Linux](./public/FLOSSDay24/presentations/Arch_Linux.pdf) | Alexander Nguyen |
 | 13:00 | Lunch & Group photo | |
-| 14:00 | [The Tor Project](presentations/Tor/Tor_internet_surveillance.pdf) | Antoine Beaupré |
+| 14:00 | [The Tor Project](./public/FLOSSDay24/presentations/Tor/Tor_internet_surveillance.pdf) | Antoine Beaupré |
 | 15:00 | Lightning talks/demos | |
-|       | - [Ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | Qian Qian |
-|       | - [Godot](presentations/godot_notes.md) | Alexandru Cirlan |
+|       | - [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | Qian Qian |
+|       | - [Godot](./public/FLOSSDay24/presentations/godot_notes.md) | Alexandru Cirlan |
 |       | - Security Do's and Don't | Nabil Ramadan |
 |       | - Tasker | Ali |
-|       | - [Open-source AI](presentations/open_source_ai.pdf) | Le Tuan Huy Nguyen |
+|       | - [Open-source AI](./public/FLOSSDay24/presentations/open_source_ai.pdf) | Le Tuan Huy Nguyen |
 |       | - Makefiles | Giuliana Bouzon | 
 |       | - Arduino | Manas Patel | 
 | 15:30 | Workshops | |
-|       | - [Hands-on Git](presentations/Git_workshop.pdf) | Andrei Popescu |
-|       | - [Debian Packaging](presentations/debian_packaging_tutorial.pdf) | Tiago Vaz |
+|       | - [Hands-on Git](./public/FLOSSDay24/presentations/Git_workshop.pdf) | Andrei Popescu |
+|       | - [Debian Packaging](./public/FLOSSDay24/presentations/debian_packaging_tutorial.pdf) | Tiago Vaz |
 |       | - Introduction to mapping with OpenStreetMap | Jenny Zhu and Nicholas Foisy |
 | 17:00 | Final words | |
 
@@ -118,7 +116,7 @@ Drawing robot
 The Tor project logo was being "cooked" by a robot as presentations were taking place, and by the
 end of the day participants could appreciate the beautiful onion logo.
 
-<img src="https://github.com/tassia/vanierFLOSS/blob/main/Events/FLOSSDay24/pictures/IMG_0673.jpg" width="50%">
+<img src="./public/FLOSSDay24/pictures/IMG_0673.jpg" width="50%">
 
 Lunch and snacks
 ================

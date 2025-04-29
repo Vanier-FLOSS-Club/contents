@@ -1,14 +1,12 @@
 ---
 top: false
 title: Eastern Bloc Hardware Marathon - Winter 2024
-tags: [Events,Marathon,Hardware]
-categories: [Contents]
+tags: [Eastern Bloc, Hardware]
+categories: [Events]
 date: 2024-04-22
 description: Check out what our members did during the EB Hardware Marathon during Winter 2024! 
 articleGPT: 
 references:
-  - title: Old FLOSS repository
-    url: https://github.com/tassia/vanierFLOSS/tree/main/Events
 ---
 
 Eastern Bloc Hardware Marathon - Winter 2024
@@ -117,7 +115,7 @@ What did you learn? Did you have fun? How was the logistics (e.g. food)?
 Group photo
 =============
 
-<img src="https://github.com/Vanier-FLOSS-Club/Contents/blob/main/Ressoureces/EbHwMarathonW24/IMG_20240224_141632.jpg" width="90%" height="90%">
+<img src="./public/EbHwMarathonW24/IMG_20240224_141632.jpg" width="90%" height="90%">
 
 
 Lessons for future events
