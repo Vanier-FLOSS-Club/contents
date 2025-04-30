@@ -80,29 +80,29 @@ the afternoon.
 | Time | Activity | Speaker |
 | -------------- | --------------- | --------------- |
 | 09:30 | Mingling and coffee time | |
-| 10:00 | [Welcome & Intro to FLOSS](/static/FLOSSDay24/presentations/flossday24_intro.pdf) | Tassia Camoes-Araujo |
-| 10:30 | [How to contribute to FLOSS projects](/static/FLOSSDay24/presentations/floss_get_started.pdf) | Qian Qian |
-| 11:00 | [Introduction to OpenStreetMap](/static/FLOSSDay24/presentations/OSM.pdf) and [open-source mapping](/static/FLOSSDay24/presentations/OSM_and_GIS.pdf) | Jenny Zhu and Nicholas Foisy |
+| 10:00 | [Welcome & Intro to FLOSS](https://github.com/Vanier-FLOSS-Club/presentations/tree/main/FLOSSDay24/flossday24_intro.pdf) | Tassia Camoes-Araujo |
+| 10:30 | [How to contribute to FLOSS projects](https://github.com/Vanier-FLOSS-Club/presentations/tree/main/FLOSSDay24/floss_get_started.pdf) | Qian Qian |
+| 11:00 | [Introduction to OpenStreetMap](https://github.com/Vanier-FLOSS-Club/presentations/tree/main/FLOSSDay24/OSM.pdf) and [open-source mapping](https://github.com/Vanier-FLOSS-Club/presentations/tree/main/FLOSSDay24/OSM_and_GIS.pdf) | Jenny Zhu and Nicholas Foisy |
 | 12:00 | Parrot Security | Kais Rafie |
 | 12:30 | GNU/Linux demo, by UNIX course students: | |
 |       | - Kali Linux | Ibrahim El Zeftawy |
-|       | - [Raspberry Pi](/static/FLOSSDay24/presentations/Raspberry_Pi.pdf) | Aya Kharchafi |
+|       | - [Raspberry Pi](https://github.com/Vanier-FLOSS-Club/presentations/tree/main/FLOSSDay24/Raspberry_Pi.pdf) | Aya Kharchafi |
 |       | - OpenSUSE | Lydia Ayala Hernandez |
 |       | - Tails | Yakin Succès |
-|       | - [Arch Linux](/static/FLOSSDay24/presentations/Arch_Linux.pdf) | Alexander Nguyen |
+|       | - [Arch Linux](https://github.com/Vanier-FLOSS-Club/presentations/tree/main/FLOSSDay24/Arch_Linux.pdf) | Alexander Nguyen |
 | 13:00 | Lunch & Group photo | |
-| 14:00 | [The Tor Project](/static/FLOSSDay24/presentations/Tor/Tor_internet_surveillance.pdf) | Antoine Beaupré |
+| 14:00 | [The Tor Project](https://github.com/Vanier-FLOSS-Club/presentations/tree/main/FLOSSDay24/Tor/Tor_internet_surveillance.pdf) | Antoine Beaupré |
 | 15:00 | Lightning talks/demos | |
 |       | - [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | Qian Qian |
-|       | - [Godot](/static/FLOSSDay24/presentations/godot_notes.md) | Alexandru Cirlan |
+|       | - [Godot](https://github.com/Vanier-FLOSS-Club/presentations/tree/main/FLOSSDay24/godot_notes.md) | Alexandru Cirlan |
 |       | - Security Do's and Don't | Nabil Ramadan |
 |       | - Tasker | Ali |
-|       | - [Open-source AI](/static/FLOSSDay24/presentations/open_source_ai.pdf) | Le Tuan Huy Nguyen |
+|       | - [Open-source AI](https://github.com/Vanier-FLOSS-Club/presentations/tree/main/FLOSSDay24/open_source_ai.pdf) | Le Tuan Huy Nguyen |
 |       | - Makefiles | Giuliana Bouzon | 
 |       | - Arduino | Manas Patel | 
 | 15:30 | Workshops | |
-|       | - [Hands-on Git](/static/FLOSSDay24/presentations/Git_workshop.pdf) | Andrei Popescu |
-|       | - [Debian Packaging](/static/FLOSSDay24/presentations/debian_packaging_tutorial.pdf) | Tiago Vaz |
+|       | - [Hands-on Git](https://github.com/Vanier-FLOSS-Club/presentations/tree/main/FLOSSDay24/Git_workshop.pdf) | Andrei Popescu |
+|       | - [Debian Packaging](https://github.com/Vanier-FLOSS-Club/presentations/tree/main/FLOSSDay24/debian_packaging_tutorial.pdf) | Tiago Vaz |
 |       | - Introduction to mapping with OpenStreetMap | Jenny Zhu and Nicholas Foisy |
 | 17:00 | Final words | |
 
