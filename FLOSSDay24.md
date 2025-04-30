@@ -11,11 +11,11 @@ references:
 
 # Vanier FLOSS Day 2024
 
-<img src="/static/FLOSSDay24/group_photo.jpg" width="100%">
+<img src="https://static.vanierfloss.club/FLOSSDay24/group_photo.jpg" width="100%">
 
 The third edition of Vanier FLOSS Day happened on October 16th 2024, on a
 Wednesday, during the school Fall break. All Vanier community was invited,
-through MIOs and a [printed poster](/static/FLOSSDay24/FLOSS_day_24_poster.png). This time we
+through MIOs and a [printed poster](https://static.vanierfloss.club/FLOSSDay24/FLOSS_day_24_poster.png). This time we
 did not publicize the event outside the College, since we quickly reached our
 room capacity.
 
@@ -47,16 +47,16 @@ a selection of FLOSS project stickers were printed and made available.
 
 ### 3D Printed Keychain (by Qian Qian)
 
-The keychain is based on a Tinkercad design of [IronGears10](https://www.tinkercad.com/things/iPPfRoUBe1q-3d-pcb-layout) licensed under CC BY-SA 3.0. There are some modification done. Final Tinkercad is shared [here](https://www.tinkercad.com/things/lqzVt5o8N8M-vanier-floss-day-swag-3d), and you can find the final design in form of the Prusa Slicer project (`3mf`) in this repo [here](/static/FLOSSDay24/Vanier%20FLOSS%20Day%20SWAG%203D.3mf).
+The keychain is based on a Tinkercad design of [IronGears10](https://www.tinkercad.com/things/iPPfRoUBe1q-3d-pcb-layout) licensed under CC BY-SA 3.0. There are some modification done. Final Tinkercad is shared [here](https://www.tinkercad.com/things/lqzVt5o8N8M-vanier-floss-day-swag-3d), and you can find the final design in form of the Prusa Slicer project (`3mf`) in this repo [here](https://static.vanierfloss.club/FLOSSDay24/Vanier%20FLOSS%20Day%20SWAG%203D.3mf).
 
 We had a few prototypes experimenting corner design and color matching; and finally the design preview of the final design.
-| ![3d-swag-prototypes](/static/FLOSSDay24/pictures/IMG_0605_small.jpeg) | ![final-design](/static/FLOSSDay24/pictures/3D%20SWAG%20Design%20Technical%20Preview%20cut.png) |
+| ![3d-swag-prototypes](https://static.vanierfloss.club/FLOSSDay24/pictures/IMG_0605_small.jpeg) | ![final-design](https://static.vanierfloss.club/FLOSSDay24/pictures/3D%20SWAG%20Design%20Technical%20Preview%20cut.png) |
 | -------------- | --------------- |
 | 3d swag prototypes | final design preview |
 
 Then the final design was produced in batch by Vanier Makerspace and got ready before the FLOSS Day.
 
-| ![mass-production](/static/FLOSSDay24/pictures/IMG_0626.jpeg)| ![3d-keychain](/static/FLOSSDay24/pictures/IMG_0627.jpg) |
+| ![mass-production](https://static.vanierfloss.club/FLOSSDay24/pictures/IMG_0626.jpeg)| ![3d-keychain](https://static.vanierfloss.club/FLOSSDay24/pictures/IMG_0627.jpg) |
 | -------------- | --------------- |
 | mass production | 3d keychain |
 
@@ -64,7 +64,7 @@ Then the final design was produced in batch by Vanier Makerspace and got ready b
 
 We have also produced some stickers to give away. A couple of original designs for the FLOSS Day, and a few other official logos from FLOSS projects.
 
-<img src="/static/FLOSSDay24/pictures/IMG_20241128_100014.jpg" width="50%">
+<img src="https://static.vanierfloss.club/FLOSSDay24/pictures/IMG_20241128_100014.jpg" width="50%">
 
 
 ## Schedule
@@ -111,7 +111,7 @@ the afternoon.
 The Tor project logo was being "cooked" by a robot as presentations were taking place, and by the
 end of the day participants could appreciate the beautiful onion logo.
 
-<img src="/static/FLOSSDay24/pictures/IMG_0673.jpg" width="50%">
+<img src="https://static.vanierfloss.club/FLOSSDay24/pictures/IMG_0673.jpg" width="50%">
 
 ## Lunch and snacks
 

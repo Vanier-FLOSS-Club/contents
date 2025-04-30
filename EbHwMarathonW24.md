@@ -110,12 +110,11 @@ What did you learn? Did you have fun? How was the logistics (e.g. food)?
 
 > ADD YOUR COMMENT HERE 
 
->
 
 Group photo
 =============
 
-<img src="/static/EbHwMarathonW24/IMG_20240224_141632.jpg" width="90%" height="90%">
+<img src="https://static.vanierfloss.club//EbHwMarathonW24/IMG_20240224_141632.jpg" width="90%" height="90%">
 
 
 Lessons for future events
