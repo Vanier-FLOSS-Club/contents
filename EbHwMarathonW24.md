@@ -115,7 +115,7 @@ What did you learn? Did you have fun? How was the logistics (e.g. food)?
 Group photo
 =============
 
-<img src="./public/EbHwMarathonW24/IMG_20240224_141632.jpg" width="90%" height="90%">
+<img src="/static/EbHwMarathonW24/IMG_20240224_141632.jpg" width="90%" height="90%">
 
 
 Lessons for future events
