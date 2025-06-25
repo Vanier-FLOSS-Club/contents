@@ -1,0 +1,25 @@
+name: Update Content Json
+
+on:
+    # When triggered manually
+    workflow_dispatch:
+    # When new content is pushed
+    push:
+      branches:
+        - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Trigger main repo workflow via dispatch
+        run: |
+          curl -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${{ secrets.MAIN_REPO_TOKEN }}" \
+            https://api.github.com/repos/${{ vars.WEBSITE_REPO }}/dispatches \
+            -d "{\"event_type\": \"content-updated\", \"client_payload\": {\"submodule\": \"${{ vars.SUBMODULE_PATH }}\"}}"
