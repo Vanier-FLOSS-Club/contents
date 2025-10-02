@@ -62,7 +62,7 @@ We will provide a _very_ limited number of laptops on a first-come, first-served
 - 16:00 - 17:00: Workshops Session #2  (description and requirements below)
   - Flipper Zero/One Workshop (Kais Rafie)
   - Debian Women meets Vanier Girls (Tassia Araujo)
-  - FLOSS for Coding Science (Tiago Vaz)
+  - Python for Data Science (Tiago Vaz)
   - Git Basics, cont. (Alexandru Cirlan)
   - Docker, cont. (Andrei Popescu)
 - 17:10 - Closing Session
@@ -96,9 +96,9 @@ We will provide a _very_ limited number of laptops on a first-come, first-served
   - Debian Women meets Vanier Girls (Library), by Tassia, Beginner Level.
     - Short intro to Debian & Debian Women, meet-up with girls at Vanier, discussion about women in tech, safe spaces and allies.
     - _No skills required_, targeted at those who identify themselves as women.
-  - FLOSS for Coding Science, by Tiago Vaz, Beginner level.
-    - Description TBA.
-    - _No skills required._
+  - FLOSS for Coding Science, by Tiago Vaz, Beginner Level, _Personal Laptop RECOMMENDED_.
+    - In this workshop, we will learn how to work with real-world data sets using the Python programming language. By manipulating large amounts of data, you will gain an understanding of the basic workflow of scientific application development: obtaining, transforming, visualising and interpreting data. Popular modules such as NumPy and Matplotlib will be introduced, and participants will be able to select a dataset of interest to work with. We will also explore the open-source IDE Spyder, which is specifically developed for scientific programming.
+    - _No skills required._ Although this is an introductory workshop, a basic knowledge of programming is _DESIRABLE_. Complete beginners can still attend as observers. Please bring a laptop for this lab.
   - Git Basics (continuation), by Alexandru Cirlan, Beginner Level.
     - This workshop starts at 14:30 and continues until 17:00. It is required for participants to attend the full session to gain a comprehensive understanding of Git.
   - Docker (continuation), by Andrei Popescu, Intermediate Level.
