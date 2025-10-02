@@ -62,7 +62,7 @@ We will provide a _very_ limited number of laptops on a first-come, first-served
 - 16:00 - 17:00: Workshops Session #2  (description and requirements below)
   - Flipper Zero/One Workshop (Kais Rafie)
   - Debian Women meets Vanier Girls (Tassia Araujo)
-  - Python for Data Science (Tiago Vaz)
+  - Introduction to Data Science with Python (Tiago Vaz)
   - Git Basics, cont. (Alexandru Cirlan)
   - Docker, cont. (Andrei Popescu)
 - 17:10 - Closing Session
@@ -70,37 +70,37 @@ We will provide a _very_ limited number of laptops on a first-come, first-served
 ## Workshop details
 
 - 14:30 - 15:45: Workshops Session #1
-  - Git Basics (E-501), by Alexandru Cirlan, Beginner Level.
+  - **Git Basics** (E-501), by Alexandru Cirlan, Beginner Level.
     - A VCS (Version Control System), such as "git", is a tool to allows programmers to save their work and be able to revert to it easily, as well as make modification, and collaborate on the same software project without interference and errors. Git is a modern VCS, commonly used in open-source projects due to its simplicity and ease of use. The workshop aims at teaching you the basics of git, so you can use it in your future projects.
     - _No skills required._
-  - Build Your Web Portfolio (Library), by Giuliana Bouzon, Beginner Level, _Personal Laptop RECOMMENDED_.
+  - **Build Your Web Portfolio** (Library), by Giuliana Bouzon, Beginner Level, _Personal Laptop RECOMMENDED_.
     - In this workshop you'll learn about different FLOSS tools to build a website, and some strategies to package and deploy your website on the Internet.
     - _Desired skills (but not required)_:
       - Basic git experience.
       - Basic coding knowledge.
       - Some web development knowledge (basic html, css, js, json).
-  - Docker (Library), by Andrei Popescu, Intermediate Level, _Personal Laptop with Linux Installed REQUIRED_.
+  - **Docker** (Library), by Andrei Popescu, Intermediate Level, _Personal Laptop with Linux Installed REQUIRED_.
     - In this workshop you'll learn the basics about containers and Docker, and be ready to build, share and deploy your applications inside containers.
     - _Basic terminal experience REQUIRED._
     - _Basic git and server management (devops) understanding RECOMMENDED._
-  - Pedagogial Tools & Strategies (Library), by Anthony Nadeau, Beginner Level.
+  - **Pedagogial Tools & Strategies** (Library), by Anthony Nadeau, Beginner Level.
     - Demo and discussion about useful tools for students and teachers, as well as planning assignments based on FLOSS methodologies.
     - _No skills required_, target at those interested in pedagogical tools.
-  - 3D Printing Basics (STEM Center), by Anghelos Coulon, Beginner Level.
+  - **3D Printing Basics** (STEM Center), by Anghelos Coulon, Beginner Level.
     - Going from zero experience to completing your first print on site.
     - _No skills required._
 - 16:00 - 17:00: Workshops Session #2
-  - Flipper Zero/One Workshop, by Kais Rafie, Beginner Level.
+  - **Flipper Zero/One**, by Kais Rafie, Beginner Level.
     - Discover the world of hacking and penetration testing. In this workshop you will learn about a tool all hackers know and use! The Flipper Zero, is a hacking tool that introduces you and guides you into the hacking world. You will learn about IR signals, SubGigHz, GPIO and arduino, and wifi hacking! All you need is a minimal laptop to participate and intereset!
     - _No skills required._ A laptop is essential only for practical participation. Though, no laptop is required for this workshop.
-  - Debian Women meets Vanier Girls (Library), by Tassia, Beginner Level.
+  - **Debian Women meets Vanier Girls** (Library), by Tassia Araujo, Beginner Level.
     - Short intro to Debian & Debian Women, meet-up with girls at Vanier, discussion about women in tech, safe spaces and allies.
     - _No skills required_, targeted at those who identify themselves as women.
-  - FLOSS for Coding Science, by Tiago Vaz, Beginner Level, _Personal Laptop RECOMMENDED_.
+  - **Introduction to Data Science with Python**, by Tiago Vaz, Beginner Level, _Personal Laptop RECOMMENDED_.
     - In this workshop, we will learn how to work with real-world data sets using the Python programming language. By manipulating large amounts of data, you will gain an understanding of the basic workflow of scientific application development: obtaining, transforming, visualising and interpreting data. Popular modules such as NumPy and Matplotlib will be introduced, and participants will be able to select a dataset of interest to work with. We will also explore the open-source IDE Spyder, which is specifically developed for scientific programming.
     - _No skills required._ Although this is an introductory workshop, a basic knowledge of programming is _DESIRABLE_. Complete beginners can still attend as observers. Please bring a laptop for this lab.
-  - Git Basics (continuation), by Alexandru Cirlan, Beginner Level.
+  - **Git Basics** (continuation), by Alexandru Cirlan, Beginner Level.
     - This workshop starts at 14:30 and continues until 17:00. It is required for participants to attend the full session to gain a comprehensive understanding of Git.
-  - Docker (continuation), by Andrei Popescu, Intermediate Level.
+  - **Docker** (continuation), by Andrei Popescu, Intermediate Level.
     - The Docker workshop starts at 14:30 and continues until 17:00. It is required for participants to attend the full session to gain a comprehensive understanding of Docker.
 
