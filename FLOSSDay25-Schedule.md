@@ -91,8 +91,8 @@ We will provide a _very_ limited number of laptops on a first-come, first-served
     - _No skills required._
 - 16:00 - 17:00: Workshops Session #2
   - Flipper Zero/One Workshop, by Kais Rafie, Beginner Level.
-    - Description TBA.
-    - _No skills required._
+    - Discover the world of hacking and penetration testing. In this workshop you will learn about a tool all hackers know and use! The Flipper Zero, is a hacking tool that introduces you and guides you into the hacking world. You will learn about IR signals, SubGigHz, GPIO and arduino, and wifi hacking! All you need is a minimal laptop to participate and intereset!
+    - _No skills required._ A laptop is essential only for practical participation. Though, no laptop is required for this workshop.
   - Debian Women meets Vanier Girls (Library), by Tassia, Beginner Level.
     - Short intro to Debian & Debian Women, meet-up with girls at Vanier, discussion about women in tech, safe spaces and allies.
     - _No skills required_, targeted at those who identify themselves as women.
