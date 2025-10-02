@@ -28,7 +28,7 @@ Room: Auditorium, Library, STEM Centre, Classroom(s): E-501
 - 09:15 - 09:45: Intro to F.L.O.S.S. (Jonas Almeida)
 - 09:45 - 10:30: F.L.O.S.S.: How to get started? (Qian Qian & Tassia Araujo)
 - 10:30 - 11:15: Students Projects
-  - FLOSS Day Swag Making & Brief Demo of Blender (Yu Duo)
+  - FLOSS Day Swag Making & Brief Demo of Blender (Yu Duo Zhang)
   - Home Assistant on a RPi (Jonas Almeida & Aaron Ho Tim Fat)
   - Pi-Plant (Sona Martirosyan & Said Becerra)
   - Vanier Robotics demo (Mika Ouaknine & Andrew El-Hayek)
@@ -38,6 +38,7 @@ Room: Auditorium, Library, STEM Centre, Classroom(s): E-501
   - _Register in the registration form or contact us at `vanierfloss[at]protonmail.com` if you want to present something!_
   - Line-up:
     - Penpot tool for designing website wireframes and prototypes (Alexandru Cirlan)
+    - ZeroTier: a software-defined private networking tool (Qian Qian)
     - and many more...
 - 13:00 - 13:15: A taste of today's workshops
 - 13:15 - Group Photo
