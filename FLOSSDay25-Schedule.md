@@ -27,14 +27,15 @@ Room: Auditorium, Library, STEM Centre, Classroom(s): E-501
 - 09:00 - 09:15: Welcome & Announcements (FLOSS Day Organizers)
 - 09:15 - 09:45: Intro to F.L.O.S.S. (Jonas Almeida)
 - 09:45 - 10:30: F.L.O.S.S.: How to get started? (Qian Qian & Tassia Araujo)
-- 10:30 - 11:15: Students Projects
+- 10:30 - 11:30: Students Projects, in ~10-20 minutes each.
   - FLOSS Day Swag Making & Brief Demo of Blender (Yu Duo Zhang)
   - Home Assistant on a RPi (Jonas Almeida & Aaron Ho Tim Fat)
   - Pi-Plant (Sona Martirosyan & Said Becerra)
-  - Vanier Robotics demo (Mika Ouaknine & Andrew El-Hayek)
-- 11:15 - 11:30: Break
-- 11:30 - 12:15: Building your homelab (Giuliana Bouzon & Anthony Nadeau)
-- 12:15 - 13:00: Lightning talks: the audience gets an open mic to present anything FLOSS-related, in ~5 minutes each.
+  - Vanier Robotics Demo (Mika Ouaknine & Andrew El-Hayek)
+  - Open Source AI Robotics (Le Tuan Huy Nguyen)
+- 11:30 - 11:45: Break
+- 11:45 - 12:30: Building your homelab (Giuliana Bouzon & Anthony Nadeau)
+- 12:30 - 13:00: Lightning talks: the audience gets an open mic to present anything FLOSS-related, in ~5 minutes each.
   - _Register in the registration form or contact us at `vanierfloss[at]protonmail.com` if you want to present something!_
   - Line-up:
     - Penpot tool for designing website wireframes and prototypes (Alexandru Cirlan)
