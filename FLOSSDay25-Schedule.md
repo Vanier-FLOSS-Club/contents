@@ -32,7 +32,7 @@ Room: Auditorium, Library, STEM Centre, Classroom(s): E-501
   - Home Assistant on a RPi (Jonas Almeida & Aaron Ho Tim Fat)
   - Pi-Plant (Sona Martirosyan & Said Becerra)
   - Vanier Robotics Demo (Mika Ouaknine & Andrew El-Hayek)
-  - Open Source AI Robotics (Le Tuan Huy Nguyen)
+  - Open Source AI Robotics (Le Tuan Huy Nguyen & Thavin Thanabalasingam)
 - 11:30 - 11:45: Break
 - 11:45 - 12:30: Building your homelab (Giuliana Bouzon & Anthony Nadeau)
 - 12:30 - 13:00: Lightning talks: the audience gets an open mic to present anything FLOSS-related, in ~5 minutes each.
